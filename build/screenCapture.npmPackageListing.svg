@@ -1,156 +1,156 @@
 <svg height="2446" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2446" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-19 01:10:56 +0000 27850872 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-19 01:10:56 +0000     8883 bytes  HMM_TRIGRAM.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-19 01:10:56 +0000    18033 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-19 01:10:56 +0000     1152 bytes  Makefile</tspan>
-<tspan x="10" y="90">  4.  2017-04-19 01:10:56 +0000    15959 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-19 01:10:56 +0000     1003 bytes  bin/browncorpus.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-19 01:10:56 +0000     4757 bytes  bin/corpuscoverage.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-19 01:10:56 +0000     3762 bytes  bin/crawl.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-19 01:10:56 +0000 10140892 bytes  bin/en.hmm.json</tspan>
-<tspan x="10" y="170">  9.  2017-04-19 01:10:56 +0000  3426792 bytes  bin/es.hmm.json</tspan>
-<tspan x="10" y="186"> 10.  2017-04-19 01:10:56 +0000      374 bytes  bin/gloss.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-19 01:10:56 +0000    29488 bytes  bin/glossdata/en.emotions.map</tspan>
-<tspan x="10" y="218"> 12.  2017-04-19 01:10:56 +0000     7661 bytes  bin/glossdata/en.gloss.map</tspan>
-<tspan x="10" y="234"> 13.  2017-04-19 01:10:56 +0000   149623 bytes  bin/glossdata/en.names-female.map</tspan>
-<tspan x="10" y="250"> 14.  2017-04-19 01:10:56 +0000    42663 bytes  bin/glossdata/en.names-male.map</tspan>
-<tspan x="10" y="266"> 15.  2017-04-19 01:10:56 +0000    22108 bytes  bin/glossdata/en.sentiment.map</tspan>
-<tspan x="10" y="282"> 16.  2017-04-19 01:10:56 +0000 13590777 bytes  bin/glossdata/en.sentwordnet.map</tspan>
-<tspan x="10" y="298"> 17.  2017-04-19 01:10:56 +0000    14820 bytes  bin/graph.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-19 01:10:56 +0000      790 bytes  bin/hmmloader.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-19 01:10:56 +0000      759 bytes  bin/hmmtags.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-19 01:10:56 +0000     4804 bytes  bin/hmmtest.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-19 01:10:56 +0000     2117 bytes  bin/hmmtrain.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-19 01:10:56 +0000      567 bytes  bin/iula.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-19 01:10:56 +0000     1939 bytes  bin/mergevocabulary.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-19 01:10:56 +0000      552 bytes  bin/ngrammodel.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-19 01:10:56 +0000      661 bytes  bin/parsewik-headings.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-19 01:10:56 +0000      632 bytes  bin/parsewik.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-19 01:10:56 +0000      513 bytes  bin/ptb.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-19 01:10:56 +0000     2751 bytes  bin/sentiment.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-19 01:10:56 +0000      524 bytes  bin/sentistrength.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-19 01:10:56 +0000     7981 bytes  bin/tests/en.sentiment</tspan>
-<tspan x="10" y="522"> 31.  2017-04-19 01:10:56 +0000     2440 bytes  bin/treetaggertest.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-19 01:10:56 +0000      528 bytes  bin/tweetbank.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-19 01:10:56 +0000       44 bytes  index.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-19 01:10:56 +0000     4195 bytes  lib/salient/classifiers/bayes_classifier.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-19 01:10:56 +0000     2408 bytes  lib/salient/classifiers/classifier.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-19 01:10:56 +0000     9331 bytes  lib/salient/classifiers/logistic_regression.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-19 01:10:56 +0000     8574 bytes  lib/salient/corpus/brown.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-19 01:10:56 +0000     7187 bytes  lib/salient/corpus/corpus.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-19 01:10:56 +0000      647 bytes  lib/salient/corpus/iula.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-19 01:10:56 +0000      597 bytes  lib/salient/corpus/mapping.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-19 01:10:56 +0000      223 bytes  lib/salient/corpus/penn.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-19 01:10:56 +0000      655 bytes  lib/salient/corpus/twitter.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-19 01:10:56 +0000     1141 bytes  lib/salient/corpus/universal_tagset/README</tspan>
-<tspan x="10" y="730"> 44.  2017-04-19 01:10:56 +0000      145 bytes  lib/salient/corpus/universal_tagset/ar-padt.map</tspan>
-<tspan x="10" y="746"> 45.  2017-04-19 01:10:56 +0000      402 bytes  lib/salient/corpus/universal_tagset/bg-btb.map</tspan>
-<tspan x="10" y="762"> 46.  2017-04-19 01:10:56 +0000      350 bytes  lib/salient/corpus/universal_tagset/ca-cat3lb.ma\</tspan>
+<tspan x="10" y="26">  0.  2017-04-26 05:20:56 +0000 27850872 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-26 05:20:56 +0000     8883 bytes  HMM_TRIGRAM.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-26 05:20:56 +0000    18033 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-26 05:20:56 +0000     1152 bytes  Makefile</tspan>
+<tspan x="10" y="90">  4.  2017-04-26 05:20:56 +0000    15959 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-26 05:20:56 +0000     1003 bytes  bin/browncorpus.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-26 05:20:56 +0000     4757 bytes  bin/corpuscoverage.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-26 05:20:56 +0000     3762 bytes  bin/crawl.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-26 05:20:56 +0000 10140892 bytes  bin/en.hmm.json</tspan>
+<tspan x="10" y="170">  9.  2017-04-26 05:20:56 +0000  3426792 bytes  bin/es.hmm.json</tspan>
+<tspan x="10" y="186"> 10.  2017-04-26 05:20:56 +0000      374 bytes  bin/gloss.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-26 05:20:56 +0000    29488 bytes  bin/glossdata/en.emotions.map</tspan>
+<tspan x="10" y="218"> 12.  2017-04-26 05:20:56 +0000     7661 bytes  bin/glossdata/en.gloss.map</tspan>
+<tspan x="10" y="234"> 13.  2017-04-26 05:20:56 +0000   149623 bytes  bin/glossdata/en.names-female.map</tspan>
+<tspan x="10" y="250"> 14.  2017-04-26 05:20:56 +0000    42663 bytes  bin/glossdata/en.names-male.map</tspan>
+<tspan x="10" y="266"> 15.  2017-04-26 05:20:56 +0000    22108 bytes  bin/glossdata/en.sentiment.map</tspan>
+<tspan x="10" y="282"> 16.  2017-04-26 05:20:56 +0000 13590777 bytes  bin/glossdata/en.sentwordnet.map</tspan>
+<tspan x="10" y="298"> 17.  2017-04-26 05:20:56 +0000    14820 bytes  bin/graph.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-26 05:20:56 +0000      790 bytes  bin/hmmloader.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-26 05:20:56 +0000      759 bytes  bin/hmmtags.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-26 05:20:56 +0000     4804 bytes  bin/hmmtest.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-26 05:20:56 +0000     2117 bytes  bin/hmmtrain.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-26 05:20:56 +0000      567 bytes  bin/iula.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-26 05:20:56 +0000     1939 bytes  bin/mergevocabulary.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-26 05:20:56 +0000      552 bytes  bin/ngrammodel.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-26 05:20:56 +0000      661 bytes  bin/parsewik-headings.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-26 05:20:56 +0000      632 bytes  bin/parsewik.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-26 05:20:56 +0000      513 bytes  bin/ptb.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-26 05:20:56 +0000     2751 bytes  bin/sentiment.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-26 05:20:56 +0000      524 bytes  bin/sentistrength.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-26 05:20:56 +0000     7981 bytes  bin/tests/en.sentiment</tspan>
+<tspan x="10" y="522"> 31.  2017-04-26 05:20:56 +0000     2440 bytes  bin/treetaggertest.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-26 05:20:56 +0000      528 bytes  bin/tweetbank.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-26 05:20:56 +0000       44 bytes  index.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-26 05:20:56 +0000     4195 bytes  lib/salient/classifiers/bayes_classifier.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-26 05:20:56 +0000     2408 bytes  lib/salient/classifiers/classifier.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-26 05:20:56 +0000     9331 bytes  lib/salient/classifiers/logistic_regression.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-26 05:20:56 +0000     8574 bytes  lib/salient/corpus/brown.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-26 05:20:56 +0000     7187 bytes  lib/salient/corpus/corpus.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-26 05:20:56 +0000      647 bytes  lib/salient/corpus/iula.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-26 05:20:56 +0000      597 bytes  lib/salient/corpus/mapping.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-26 05:20:56 +0000      223 bytes  lib/salient/corpus/penn.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-26 05:20:56 +0000      655 bytes  lib/salient/corpus/twitter.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-26 05:20:56 +0000     1141 bytes  lib/salient/corpus/universal_tagset/README</tspan>
+<tspan x="10" y="730"> 44.  2017-04-26 05:20:56 +0000      145 bytes  lib/salient/corpus/universal_tagset/ar-padt.map</tspan>
+<tspan x="10" y="746"> 45.  2017-04-26 05:20:56 +0000      402 bytes  lib/salient/corpus/universal_tagset/bg-btb.map</tspan>
+<tspan x="10" y="762"> 46.  2017-04-26 05:20:56 +0000      350 bytes  lib/salient/corpus/universal_tagset/ca-cat3lb.ma\</tspan>
 <tspan x="10" y="778">p</tspan>
-<tspan x="10" y="794"> 47.  2017-04-19 01:10:56 +0000      399 bytes  lib/salient/corpus/universal_tagset/cs-pdt.map</tspan>
-<tspan x="10" y="810"> 48.  2017-04-19 01:10:56 +0000      171 bytes  lib/salient/corpus/universal_tagset/da-ddt.map</tspan>
-<tspan x="10" y="826"> 49.  2017-04-19 01:10:56 +0000      520 bytes  lib/salient/corpus/universal_tagset/de-negra.map</tspan>
-<tspan x="10" y="842"> 50.  2017-04-19 01:10:56 +0000      509 bytes  lib/salient/corpus/universal_tagset/de-tiger.map</tspan>
-<tspan x="10" y="858"> 51.  2017-04-19 01:10:56 +0000      349 bytes  lib/salient/corpus/universal_tagset/el-gdt.map</tspan>
-<tspan x="10" y="874"> 52.  2017-04-19 01:10:56 +0000     4966 bytes  lib/salient/corpus/universal_tagset/en-brown.map</tspan>
-<tspan x="10" y="890"> 53.  2017-04-19 01:10:56 +0000      560 bytes  lib/salient/corpus/universal_tagset/en-ptb.map</tspan>
-<tspan x="10" y="906"> 54.  2017-04-19 01:10:56 +0000     1393 bytes  lib/salient/corpus/universal_tagset/en-tweet.REA\</tspan>
+<tspan x="10" y="794"> 47.  2017-04-26 05:20:56 +0000      399 bytes  lib/salient/corpus/universal_tagset/cs-pdt.map</tspan>
+<tspan x="10" y="810"> 48.  2017-04-26 05:20:56 +0000      171 bytes  lib/salient/corpus/universal_tagset/da-ddt.map</tspan>
+<tspan x="10" y="826"> 49.  2017-04-26 05:20:56 +0000      520 bytes  lib/salient/corpus/universal_tagset/de-negra.map</tspan>
+<tspan x="10" y="842"> 50.  2017-04-26 05:20:56 +0000      509 bytes  lib/salient/corpus/universal_tagset/de-tiger.map</tspan>
+<tspan x="10" y="858"> 51.  2017-04-26 05:20:56 +0000      349 bytes  lib/salient/corpus/universal_tagset/el-gdt.map</tspan>
+<tspan x="10" y="874"> 52.  2017-04-26 05:20:56 +0000     4966 bytes  lib/salient/corpus/universal_tagset/en-brown.map</tspan>
+<tspan x="10" y="890"> 53.  2017-04-26 05:20:56 +0000      560 bytes  lib/salient/corpus/universal_tagset/en-ptb.map</tspan>
+<tspan x="10" y="906"> 54.  2017-04-26 05:20:56 +0000     1393 bytes  lib/salient/corpus/universal_tagset/en-tweet.REA\</tspan>
 <tspan x="10" y="922">DME</tspan>
-<tspan x="10" y="938"> 55.  2017-04-19 01:10:56 +0000      143 bytes  lib/salient/corpus/universal_tagset/en-tweet.map</tspan>
-<tspan x="10" y="954"> 56.  2017-04-19 01:10:56 +0000      313 bytes  lib/salient/corpus/universal_tagset/es-cast3lb.m\</tspan>
+<tspan x="10" y="938"> 55.  2017-04-26 05:20:56 +0000      143 bytes  lib/salient/corpus/universal_tagset/en-tweet.map</tspan>
+<tspan x="10" y="954"> 56.  2017-04-26 05:20:56 +0000      313 bytes  lib/salient/corpus/universal_tagset/es-cast3lb.m\</tspan>
 <tspan x="10" y="970">ap</tspan>
-<tspan x="10" y="986"> 57.  2017-04-19 01:10:56 +0000       72 bytes  lib/salient/corpus/universal_tagset/es-iula.map</tspan>
-<tspan x="10" y="1002"> 58.  2017-04-19 01:10:56 +0000      784 bytes  lib/salient/corpus/universal_tagset/eu-eus3lb.ma\</tspan>
+<tspan x="10" y="986"> 57.  2017-04-26 05:20:56 +0000       72 bytes  lib/salient/corpus/universal_tagset/es-iula.map</tspan>
+<tspan x="10" y="1002"> 58.  2017-04-26 05:20:56 +0000      784 bytes  lib/salient/corpus/universal_tagset/eu-eus3lb.ma\</tspan>
 <tspan x="10" y="1018">p</tspan>
-<tspan x="10" y="1034"> 59.  2017-04-19 01:10:56 +0000      104 bytes  lib/salient/corpus/universal_tagset/fi-tdt.map</tspan>
-<tspan x="10" y="1050"> 60.  2017-04-19 01:10:56 +0000      250 bytes  lib/salient/corpus/universal_tagset/fr-paris.map</tspan>
-<tspan x="10" y="1066"> 61.  2017-04-19 01:10:56 +0000      300 bytes  lib/salient/corpus/universal_tagset/hu-szeged.ma\</tspan>
+<tspan x="10" y="1034"> 59.  2017-04-26 05:20:56 +0000      104 bytes  lib/salient/corpus/universal_tagset/fi-tdt.map</tspan>
+<tspan x="10" y="1050"> 60.  2017-04-26 05:20:56 +0000      250 bytes  lib/salient/corpus/universal_tagset/fr-paris.map</tspan>
+<tspan x="10" y="1066"> 61.  2017-04-26 05:20:56 +0000      300 bytes  lib/salient/corpus/universal_tagset/hu-szeged.ma\</tspan>
 <tspan x="10" y="1082">p</tspan>
-<tspan x="10" y="1098"> 62.  2017-04-19 01:10:56 +0000      191 bytes  lib/salient/corpus/universal_tagset/it-isst.map</tspan>
-<tspan x="10" y="1114"> 63.  2017-04-19 01:10:56 +0000      212 bytes  lib/salient/corpus/universal_tagset/iw-mila.map</tspan>
-<tspan x="10" y="1130"> 64.  2017-04-19 01:10:56 +0000      312 bytes  lib/salient/corpus/universal_tagset/ja-kyoto.map</tspan>
-<tspan x="10" y="1146"> 65.  2017-04-19 01:10:56 +0000      763 bytes  lib/salient/corpus/universal_tagset/ja-verbmobil\</tspan>
+<tspan x="10" y="1098"> 62.  2017-04-26 05:20:56 +0000      191 bytes  lib/salient/corpus/universal_tagset/it-isst.map</tspan>
+<tspan x="10" y="1114"> 63.  2017-04-26 05:20:56 +0000      212 bytes  lib/salient/corpus/universal_tagset/iw-mila.map</tspan>
+<tspan x="10" y="1130"> 64.  2017-04-26 05:20:56 +0000      312 bytes  lib/salient/corpus/universal_tagset/ja-kyoto.map</tspan>
+<tspan x="10" y="1146"> 65.  2017-04-26 05:20:56 +0000      763 bytes  lib/salient/corpus/universal_tagset/ja-verbmobil\</tspan>
 <tspan x="10" y="1162">.map</tspan>
-<tspan x="10" y="1178"> 66.  2017-04-19 01:10:56 +0000     1933 bytes  lib/salient/corpus/universal_tagset/ko-sejong.ma\</tspan>
+<tspan x="10" y="1178"> 66.  2017-04-26 05:20:56 +0000     1933 bytes  lib/salient/corpus/universal_tagset/ko-sejong.ma\</tspan>
 <tspan x="10" y="1194">p</tspan>
-<tspan x="10" y="1210"> 67.  2017-04-19 01:10:56 +0000       95 bytes  lib/salient/corpus/universal_tagset/nl-alpino.ma\</tspan>
+<tspan x="10" y="1210"> 67.  2017-04-26 05:20:56 +0000       95 bytes  lib/salient/corpus/universal_tagset/nl-alpino.ma\</tspan>
 <tspan x="10" y="1226">p</tspan>
-<tspan x="10" y="1242"> 68.  2017-04-19 01:10:56 +0000      318 bytes  lib/salient/corpus/universal_tagset/pl-ipipan.ma\</tspan>
+<tspan x="10" y="1242"> 68.  2017-04-26 05:20:56 +0000      318 bytes  lib/salient/corpus/universal_tagset/pl-ipipan.ma\</tspan>
 <tspan x="10" y="1258">p</tspan>
-<tspan x="10" y="1274"> 69.  2017-04-19 01:10:56 +0000      206 bytes  lib/salient/corpus/universal_tagset/pt-bosque.ma\</tspan>
+<tspan x="10" y="1274"> 69.  2017-04-26 05:20:56 +0000      206 bytes  lib/salient/corpus/universal_tagset/pt-bosque.ma\</tspan>
 <tspan x="10" y="1290">p</tspan>
-<tspan x="10" y="1306"> 70.  2017-04-19 01:10:56 +0000      119 bytes  lib/salient/corpus/universal_tagset/ru-rnc.map</tspan>
-<tspan x="10" y="1322"> 71.  2017-04-19 01:10:56 +0000      608 bytes  lib/salient/corpus/universal_tagset/sl-sdt.map</tspan>
-<tspan x="10" y="1338"> 72.  2017-04-19 01:10:56 +0000      280 bytes  lib/salient/corpus/universal_tagset/sv-talbanken\</tspan>
+<tspan x="10" y="1306"> 70.  2017-04-26 05:20:56 +0000      119 bytes  lib/salient/corpus/universal_tagset/ru-rnc.map</tspan>
+<tspan x="10" y="1322"> 71.  2017-04-26 05:20:56 +0000      608 bytes  lib/salient/corpus/universal_tagset/sl-sdt.map</tspan>
+<tspan x="10" y="1338"> 72.  2017-04-26 05:20:56 +0000      280 bytes  lib/salient/corpus/universal_tagset/sv-talbanken\</tspan>
 <tspan x="10" y="1354">.map</tspan>
-<tspan x="10" y="1370"> 73.  2017-04-19 01:10:56 +0000      324 bytes  lib/salient/corpus/universal_tagset/tu-metusbanc\</tspan>
+<tspan x="10" y="1370"> 73.  2017-04-26 05:20:56 +0000      324 bytes  lib/salient/corpus/universal_tagset/tu-metusbanc\</tspan>
 <tspan x="10" y="1386">i.map</tspan>
-<tspan x="10" y="1402"> 74.  2017-04-19 01:10:56 +0000      235 bytes  lib/salient/corpus/universal_tagset/zh-ctb6.map</tspan>
-<tspan x="10" y="1418"> 75.  2017-04-19 01:10:56 +0000     3183 bytes  lib/salient/corpus/universal_tagset/zh-sinica.ma\</tspan>
+<tspan x="10" y="1402"> 74.  2017-04-26 05:20:56 +0000      235 bytes  lib/salient/corpus/universal_tagset/zh-ctb6.map</tspan>
+<tspan x="10" y="1418"> 75.  2017-04-26 05:20:56 +0000     3183 bytes  lib/salient/corpus/universal_tagset/zh-sinica.ma\</tspan>
 <tspan x="10" y="1434">p</tspan>
-<tspan x="10" y="1450"> 76.  2017-04-19 01:10:56 +0000     1588 bytes  lib/salient/crawlers/content_crawler.js</tspan>
-<tspan x="10" y="1466"> 77.  2017-04-19 01:10:56 +0000     2669 bytes  lib/salient/crawlers/ratelimiter.js</tspan>
-<tspan x="10" y="1482"> 78.  2017-04-19 01:10:56 +0000     2453 bytes  lib/salient/crawlers/sitemap_crawler.js</tspan>
-<tspan x="10" y="1498"> 79.  2017-04-19 01:10:56 +0000      832 bytes  lib/salient/crawlers/string_reader.js</tspan>
-<tspan x="10" y="1514"> 80.  2017-04-19 01:10:56 +0000     4836 bytes  lib/salient/crossvalidation/crossvalidate.js</tspan>
-<tspan x="10" y="1530"> 81.  2017-04-19 01:10:56 +0000    11523 bytes  lib/salient/glossary/glossary.js</tspan>
-<tspan x="10" y="1546"> 82.  2017-04-19 01:10:56 +0000    29604 bytes  lib/salient/graph/document.js</tspan>
-<tspan x="10" y="1562"> 83.  2017-04-19 01:10:56 +0000     2768 bytes  lib/salient/index.js</tspan>
-<tspan x="10" y="1578"> 84.  2017-04-19 01:10:56 +0000     2897 bytes  lib/salient/language/gaddag.js</tspan>
-<tspan x="10" y="1594"> 85.  2017-04-19 01:10:56 +0000    23589 bytes  lib/salient/language/hmm.js</tspan>
-<tspan x="10" y="1610"> 86.  2017-04-19 01:10:56 +0000     3000 bytes  lib/salient/language/mphf.js</tspan>
-<tspan x="10" y="1626"> 87.  2017-04-19 01:10:56 +0000     8937 bytes  lib/salient/language/radixtree.js</tspan>
-<tspan x="10" y="1642"> 88.  2017-04-19 01:10:56 +0000     2362 bytes  lib/salient/language/vocabulary.js</tspan>
-<tspan x="10" y="1658"> 89.  2017-04-19 01:10:56 +0000    17755 bytes  lib/salient/language/word.js</tspan>
-<tspan x="10" y="1674"> 90.  2017-04-19 01:10:56 +0000      917 bytes  lib/salient/lda/stream_lda.js</tspan>
-<tspan x="10" y="1690"> 91.  2017-04-19 01:10:56 +0000     4912 bytes  lib/salient/math/matrix.js</tspan>
-<tspan x="10" y="1706"> 92.  2017-04-19 01:10:56 +0000      495 bytes  lib/salient/math/vector.js</tspan>
-<tspan x="10" y="1722"> 93.  2017-04-19 01:10:56 +0000    14685 bytes  lib/salient/neuralnetworks/neuralnetwork.js</tspan>
-<tspan x="10" y="1738"> 94.  2017-04-19 01:10:56 +0000     1645 bytes  lib/salient/normalizers/mean_normalizer.js</tspan>
-<tspan x="10" y="1754"> 95.  2017-04-19 01:10:56 +0000     1078 bytes  lib/salient/normalizers/simple_normalizer.js</tspan>
-<tspan x="10" y="1770"> 96.  2017-04-19 01:10:56 +0000      222 bytes  lib/salient/object.js</tspan>
-<tspan x="10" y="1786"> 97.  2017-04-19 01:10:56 +0000     5894 bytes  lib/salient/regression/linear_regression.js</tspan>
-<tspan x="10" y="1802"> 98.  2017-04-19 01:10:56 +0000      844 bytes  lib/salient/regression/regression.js</tspan>
-<tspan x="10" y="1818"> 99.  2017-04-19 01:10:56 +0000    18283 bytes  lib/salient/sentiment/bayesanalyser.js</tspan>
-<tspan x="10" y="1834">100.  2017-04-19 01:10:56 +0000    10188 bytes  lib/salient/sentiment/sentiwordnet_analyser.js</tspan>
-<tspan x="10" y="1850">101.  2017-04-19 01:10:56 +0000      686 bytes  lib/salient/tagging/hmm_tagger.js</tspan>
-<tspan x="10" y="1866">102.  2017-04-19 01:10:56 +0000      243 bytes  lib/salient/tagging/partofspeech_tagger.js</tspan>
-<tspan x="10" y="1882">103.  2017-04-19 01:10:56 +0000     1538 bytes  lib/salient/tagging/treetagger.js</tspan>
-<tspan x="10" y="1898">104.  2017-04-19 01:10:56 +0000     5765 bytes  lib/salient/tokenizers/article_tokenizer.js</tspan>
-<tspan x="10" y="1914">105.  2017-04-19 01:10:56 +0000      469 bytes  lib/salient/tokenizers/emoticon_tokenizer.js</tspan>
-<tspan x="10" y="1930">106.  2017-04-19 01:10:56 +0000     3548 bytes  lib/salient/tokenizers/regexp_tokenizer.js</tspan>
-<tspan x="10" y="1946">107.  2017-04-19 01:10:56 +0000     1083 bytes  lib/salient/tokenizers/tokenizer.js</tspan>
-<tspan x="10" y="1962">108.  2017-04-19 01:10:56 +0000     1975 bytes  lib/salient/tokenizers/tweet_tokenizer.js</tspan>
-<tspan x="10" y="1978">109.  2017-04-19 01:10:56 +0000      658 bytes  lib/salient/tokenizers/url_tokenizer.js</tspan>
-<tspan x="10" y="1994">110.  2017-04-19 01:10:56 +0000     1381 bytes  lib/salient/tokenizers/wordpunct_tokenizer.js</tspan>
-<tspan x="10" y="2010">111.  2017-04-19 01:10:56 +0000     1124 bytes  lib/salient/wiktionary/en.wik.map</tspan>
-<tspan x="10" y="2026">112.  2017-04-19 01:10:56 +0000    14943 bytes  lib/salient/wiktionary/es.wik.map</tspan>
-<tspan x="10" y="2042">113.  2017-04-19 01:10:56 +0000     2917 bytes  lib/salient/wiktionary/finite-automata.js</tspan>
-<tspan x="10" y="2058">114.  2017-04-19 01:10:56 +0000    10888 bytes  lib/salient/wiktionary/wikparser.js</tspan>
-<tspan x="10" y="2074">115.  2017-04-19 01:10:56 +0000    15663 bytes  lib/salient/wiktionary/xml-stream.js</tspan>
-<tspan x="10" y="2090">116.  2017-04-19 01:10:56 +0000     2901 bytes  package.json</tspan>
-<tspan x="10" y="2106">117.  2017-04-19 01:10:56 +0000      524 bytes  scripts/gabor_filter.m</tspan>
-<tspan x="10" y="2122">118.  2017-04-19 01:10:56 +0000      561 bytes  scripts/gabor_fn.m</tspan>
-<tspan x="10" y="2138">119.  2017-04-19 01:10:56 +0000     4198 bytes  scripts/imfilter.m</tspan>
-<tspan x="10" y="2154">120.  2017-04-19 01:10:56 +0000     2065 bytes  scripts/import/sentiwordnet.js</tspan>
-<tspan x="10" y="2170">121.  2017-04-19 01:10:56 +0000       11 bytes  scripts/octave-core</tspan>
-<tspan x="10" y="2186">122.  2017-04-19 01:10:56 +0000    11748 bytes  scripts/padarray.m</tspan>
-<tspan x="10" y="2202">123.  2017-04-19 01:10:56 +0000     2554 bytes  spec/classifiers/bayes_classifier_spec.js</tspan>
-<tspan x="10" y="2218">124.  2017-04-19 01:10:56 +0000     2422 bytes  spec/classifiers/logistic_regression_spec.js</tspan>
-<tspan x="10" y="2234">125.  2017-04-19 01:10:56 +0000     1051 bytes  spec/glossary/glossary_spec.js</tspan>
-<tspan x="10" y="2250">126.  2017-04-19 01:10:56 +0000      213 bytes  spec/index_spec.js</tspan>
-<tspan x="10" y="2266">127.  2017-04-19 01:10:56 +0000      805 bytes  spec/math/matrix_spec.js</tspan>
-<tspan x="10" y="2282">128.  2017-04-19 01:10:56 +0000     4155 bytes  spec/neuralnetworks/neuralnetwork_spec.js</tspan>
-<tspan x="10" y="2298">129.  2017-04-19 01:10:56 +0000      657 bytes  spec/regression/ex1data2.txt</tspan>
-<tspan x="10" y="2314">130.  2017-04-19 01:10:56 +0000     1425 bytes  spec/regression/linear_regression_spec.js</tspan>
-<tspan x="10" y="2330">131.  2017-04-19 01:10:56 +0000      334 bytes  spec/sentiment/sentiment_spec.js</tspan>
-<tspan x="10" y="2346">132.  2017-04-19 01:10:56 +0000     8649 bytes  spec/tokenizers/article_tokenizer_spec.js</tspan>
-<tspan x="10" y="2362">133.  2017-04-19 01:10:56 +0000     1058 bytes  spec/tokenizers/emoticon_tokenizer_spec.js</tspan>
-<tspan x="10" y="2378">134.  2017-04-19 01:10:56 +0000     1534 bytes  spec/tokenizers/regexp_tokenizer_spec.js</tspan>
-<tspan x="10" y="2394">135.  2017-04-19 01:10:56 +0000     1320 bytes  spec/tokenizers/tweet_tokenizer_spec.js</tspan>
-<tspan x="10" y="2410">136.  2017-04-19 01:10:56 +0000     2149 bytes  spec/tokenizers/url_tokenizer_spec.js</tspan>
-<tspan x="10" y="2426">137.  2017-04-19 01:10:56 +0000     1865 bytes  spec/tokenizers/wordpunct_tokenizer_spec.js</tspan>
+<tspan x="10" y="1450"> 76.  2017-04-26 05:20:56 +0000     1588 bytes  lib/salient/crawlers/content_crawler.js</tspan>
+<tspan x="10" y="1466"> 77.  2017-04-26 05:20:56 +0000     2669 bytes  lib/salient/crawlers/ratelimiter.js</tspan>
+<tspan x="10" y="1482"> 78.  2017-04-26 05:20:56 +0000     2453 bytes  lib/salient/crawlers/sitemap_crawler.js</tspan>
+<tspan x="10" y="1498"> 79.  2017-04-26 05:20:56 +0000      832 bytes  lib/salient/crawlers/string_reader.js</tspan>
+<tspan x="10" y="1514"> 80.  2017-04-26 05:20:56 +0000     4836 bytes  lib/salient/crossvalidation/crossvalidate.js</tspan>
+<tspan x="10" y="1530"> 81.  2017-04-26 05:20:56 +0000    11523 bytes  lib/salient/glossary/glossary.js</tspan>
+<tspan x="10" y="1546"> 82.  2017-04-26 05:20:56 +0000    29604 bytes  lib/salient/graph/document.js</tspan>
+<tspan x="10" y="1562"> 83.  2017-04-26 05:20:56 +0000     2768 bytes  lib/salient/index.js</tspan>
+<tspan x="10" y="1578"> 84.  2017-04-26 05:20:56 +0000     2897 bytes  lib/salient/language/gaddag.js</tspan>
+<tspan x="10" y="1594"> 85.  2017-04-26 05:20:56 +0000    23589 bytes  lib/salient/language/hmm.js</tspan>
+<tspan x="10" y="1610"> 86.  2017-04-26 05:20:56 +0000     3000 bytes  lib/salient/language/mphf.js</tspan>
+<tspan x="10" y="1626"> 87.  2017-04-26 05:20:56 +0000     8937 bytes  lib/salient/language/radixtree.js</tspan>
+<tspan x="10" y="1642"> 88.  2017-04-26 05:20:56 +0000     2362 bytes  lib/salient/language/vocabulary.js</tspan>
+<tspan x="10" y="1658"> 89.  2017-04-26 05:20:56 +0000    17755 bytes  lib/salient/language/word.js</tspan>
+<tspan x="10" y="1674"> 90.  2017-04-26 05:20:56 +0000      917 bytes  lib/salient/lda/stream_lda.js</tspan>
+<tspan x="10" y="1690"> 91.  2017-04-26 05:20:56 +0000     4912 bytes  lib/salient/math/matrix.js</tspan>
+<tspan x="10" y="1706"> 92.  2017-04-26 05:20:56 +0000      495 bytes  lib/salient/math/vector.js</tspan>
+<tspan x="10" y="1722"> 93.  2017-04-26 05:20:56 +0000    14685 bytes  lib/salient/neuralnetworks/neuralnetwork.js</tspan>
+<tspan x="10" y="1738"> 94.  2017-04-26 05:20:56 +0000     1645 bytes  lib/salient/normalizers/mean_normalizer.js</tspan>
+<tspan x="10" y="1754"> 95.  2017-04-26 05:20:56 +0000     1078 bytes  lib/salient/normalizers/simple_normalizer.js</tspan>
+<tspan x="10" y="1770"> 96.  2017-04-26 05:20:56 +0000      222 bytes  lib/salient/object.js</tspan>
+<tspan x="10" y="1786"> 97.  2017-04-26 05:20:56 +0000     5894 bytes  lib/salient/regression/linear_regression.js</tspan>
+<tspan x="10" y="1802"> 98.  2017-04-26 05:20:56 +0000      844 bytes  lib/salient/regression/regression.js</tspan>
+<tspan x="10" y="1818"> 99.  2017-04-26 05:20:56 +0000    18283 bytes  lib/salient/sentiment/bayesanalyser.js</tspan>
+<tspan x="10" y="1834">100.  2017-04-26 05:20:56 +0000    10188 bytes  lib/salient/sentiment/sentiwordnet_analyser.js</tspan>
+<tspan x="10" y="1850">101.  2017-04-26 05:20:56 +0000      686 bytes  lib/salient/tagging/hmm_tagger.js</tspan>
+<tspan x="10" y="1866">102.  2017-04-26 05:20:56 +0000      243 bytes  lib/salient/tagging/partofspeech_tagger.js</tspan>
+<tspan x="10" y="1882">103.  2017-04-26 05:20:56 +0000     1538 bytes  lib/salient/tagging/treetagger.js</tspan>
+<tspan x="10" y="1898">104.  2017-04-26 05:20:56 +0000     5765 bytes  lib/salient/tokenizers/article_tokenizer.js</tspan>
+<tspan x="10" y="1914">105.  2017-04-26 05:20:56 +0000      469 bytes  lib/salient/tokenizers/emoticon_tokenizer.js</tspan>
+<tspan x="10" y="1930">106.  2017-04-26 05:20:56 +0000     3548 bytes  lib/salient/tokenizers/regexp_tokenizer.js</tspan>
+<tspan x="10" y="1946">107.  2017-04-26 05:20:56 +0000     1083 bytes  lib/salient/tokenizers/tokenizer.js</tspan>
+<tspan x="10" y="1962">108.  2017-04-26 05:20:56 +0000     1975 bytes  lib/salient/tokenizers/tweet_tokenizer.js</tspan>
+<tspan x="10" y="1978">109.  2017-04-26 05:20:56 +0000      658 bytes  lib/salient/tokenizers/url_tokenizer.js</tspan>
+<tspan x="10" y="1994">110.  2017-04-26 05:20:56 +0000     1381 bytes  lib/salient/tokenizers/wordpunct_tokenizer.js</tspan>
+<tspan x="10" y="2010">111.  2017-04-26 05:20:56 +0000     1124 bytes  lib/salient/wiktionary/en.wik.map</tspan>
+<tspan x="10" y="2026">112.  2017-04-26 05:20:56 +0000    14943 bytes  lib/salient/wiktionary/es.wik.map</tspan>
+<tspan x="10" y="2042">113.  2017-04-26 05:20:56 +0000     2917 bytes  lib/salient/wiktionary/finite-automata.js</tspan>
+<tspan x="10" y="2058">114.  2017-04-26 05:20:56 +0000    10888 bytes  lib/salient/wiktionary/wikparser.js</tspan>
+<tspan x="10" y="2074">115.  2017-04-26 05:20:56 +0000    15663 bytes  lib/salient/wiktionary/xml-stream.js</tspan>
+<tspan x="10" y="2090">116.  2017-04-26 05:20:56 +0000     2901 bytes  package.json</tspan>
+<tspan x="10" y="2106">117.  2017-04-26 05:20:56 +0000      524 bytes  scripts/gabor_filter.m</tspan>
+<tspan x="10" y="2122">118.  2017-04-26 05:20:56 +0000      561 bytes  scripts/gabor_fn.m</tspan>
+<tspan x="10" y="2138">119.  2017-04-26 05:20:56 +0000     4198 bytes  scripts/imfilter.m</tspan>
+<tspan x="10" y="2154">120.  2017-04-26 05:20:56 +0000     2065 bytes  scripts/import/sentiwordnet.js</tspan>
+<tspan x="10" y="2170">121.  2017-04-26 05:20:56 +0000       11 bytes  scripts/octave-core</tspan>
+<tspan x="10" y="2186">122.  2017-04-26 05:20:56 +0000    11748 bytes  scripts/padarray.m</tspan>
+<tspan x="10" y="2202">123.  2017-04-26 05:20:56 +0000     2554 bytes  spec/classifiers/bayes_classifier_spec.js</tspan>
+<tspan x="10" y="2218">124.  2017-04-26 05:20:56 +0000     2422 bytes  spec/classifiers/logistic_regression_spec.js</tspan>
+<tspan x="10" y="2234">125.  2017-04-26 05:20:56 +0000     1051 bytes  spec/glossary/glossary_spec.js</tspan>
+<tspan x="10" y="2250">126.  2017-04-26 05:20:56 +0000      213 bytes  spec/index_spec.js</tspan>
+<tspan x="10" y="2266">127.  2017-04-26 05:20:56 +0000      805 bytes  spec/math/matrix_spec.js</tspan>
+<tspan x="10" y="2282">128.  2017-04-26 05:20:56 +0000     4155 bytes  spec/neuralnetworks/neuralnetwork_spec.js</tspan>
+<tspan x="10" y="2298">129.  2017-04-26 05:20:56 +0000      657 bytes  spec/regression/ex1data2.txt</tspan>
+<tspan x="10" y="2314">130.  2017-04-26 05:20:56 +0000     1425 bytes  spec/regression/linear_regression_spec.js</tspan>
+<tspan x="10" y="2330">131.  2017-04-26 05:20:56 +0000      334 bytes  spec/sentiment/sentiment_spec.js</tspan>
+<tspan x="10" y="2346">132.  2017-04-26 05:20:56 +0000     8649 bytes  spec/tokenizers/article_tokenizer_spec.js</tspan>
+<tspan x="10" y="2362">133.  2017-04-26 05:20:56 +0000     1058 bytes  spec/tokenizers/emoticon_tokenizer_spec.js</tspan>
+<tspan x="10" y="2378">134.  2017-04-26 05:20:56 +0000     1534 bytes  spec/tokenizers/regexp_tokenizer_spec.js</tspan>
+<tspan x="10" y="2394">135.  2017-04-26 05:20:56 +0000     1320 bytes  spec/tokenizers/tweet_tokenizer_spec.js</tspan>
+<tspan x="10" y="2410">136.  2017-04-26 05:20:56 +0000     2149 bytes  spec/tokenizers/url_tokenizer_spec.js</tspan>
+<tspan x="10" y="2426">137.  2017-04-26 05:20:56 +0000     1865 bytes  spec/tokenizers/wordpunct_tokenizer_spec.js</tspan>
 </text>
 </svg>
