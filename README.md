@@ -1,6 +1,6 @@
 # npmtest-salient
 
-#### test coverage for  [salient (v0.2.1)](https://github.com/nyxtom/salient)  [![npm package](https://img.shields.io/npm/v/npmtest-salient.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-salient) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-salient.svg)](https://travis-ci.org/npmtest/node-npmtest-salient)
+#### basic test coverage for  [salient (v0.2.1)](https://github.com/nyxtom/salient)  [![npm package](https://img.shields.io/npm/v/npmtest-salient.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-salient) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-salient.svg)](https://travis-ci.org/npmtest/node-npmtest-salient)
 
 #### Salient is a natural language processing and sentiment analysis library
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-salient/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-salient/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-salient/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-salient/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-salient/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-salient/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-salient/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-salient/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-salient/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-salient/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-salient/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-salient/build/coverage.html/index.html)
 
@@ -108,7 +108,8 @@
     "scripts": {
         "test": "make test"
     },
-    "version": "0.2.1"
+    "version": "0.2.1",
+    "bin": {}
 }
 ```
 
